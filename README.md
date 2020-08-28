@@ -1,10 +1,10 @@
-<center>About Me</center>
+<center> <font color=red size=72> About Me  </font></center>
 
 ### Hi there ，I'm libin ，I am a senior front-end development engineer 👋
 
 ### WeChat (Come and make me a friend)
 
-![](https://raw.githubusercontent.com/libin1991/webpack4-vue-more-page-cli/master/1.jpg)
+<img src="https://raw.githubusercontent.com/libin1991/webpack4-vue-more-page-cli/master/1.jpg"  width="300" height="300" align="bottom" />
 
 <!--
 **libin1991/libin1991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,8 +21,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-### 个人评价
-- 所知甚少，唯善学
-- 实用主义者， 简单优于一切
-- 擅长打杂跑腿相关工作，键盘侠，略懂前端…
