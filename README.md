@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 
 <p>
-  <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=libin1991&show_icons=true&title_color=FF4C3B&icon_color=FFD034&text_color=333333&bg_color=ffffff)
+   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=libin1991&show_icons=true&include_all_commits=true&theme=radical" alt="vue React webpack" />
   <p>
     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
