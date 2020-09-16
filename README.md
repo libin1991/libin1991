@@ -4,10 +4,10 @@
 
 ### WeChat (Come and make me a friend)
 
-<img src="https://imgkr2.cn-bj.ufileos.com/a7b073a4-baec-460f-b018-809bb8ea4669.jpg?UCloudPublicKey=TOKEN_8d8b72be-579a-4e83-bfd0-5f6ce1546f13&Signature=gRYW2CfFZWv5bqoBnS30dvAMYvs%253D&Expires=1599572492"  width="250" height="250" align="center" />
+<img src="https://raw.githubusercontent.com/libin1991/libin1991/master/wx-0.jpg"  width="250" height="250" align="center" />
 
 
-<img src="https://imgkr2.cn-bj.ufileos.com/01beedc7-3a4a-4d7e-a7db-46902bc7f704.png?UCloudPublicKey=TOKEN_8d8b72be-579a-4e83-bfd0-5f6ce1546f13&Signature=mt%252FWkYtYLHk9trh4JYtXlB%252FUvMI%253D&Expires=1599573254"  width="680" height="184" align="center" />
+<img src="https://raw.githubusercontent.com/libin1991/libin1991/master/wx.png"  width="680" height="184" align="center" />
 
 
 ![]()
