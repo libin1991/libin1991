@@ -54,7 +54,11 @@ Here are some ideas to get you started:
 </p>
 
 
-<p>
-   <div><a href='https://github.com/wuyve/JS-dataStructure'>JavaScript相关的数据结构</a></div>   
-</p>
+<ul>
+   <li><a href='https://github.com/wuyve/JS-dataStructure'>JavaScript相关的数据结构</a></li>
+   <li><a href='https://github.com/libin1991/awesome-coding-js'>用JavaScript实现的算法和数据结构，附详细解释和刷题指南</a></li>   
+   <li><a href='https://github.com/biaodigit/JavaScriptAlgorithms'>Javascript 数据结构算法</a></li>   
+   <li><a href='https://github.com/mjyplusone/data-structure-js'>Javascript 数据结构算法</a></li>   
+   <li><a href='https://github.com/biaodigit/JavaScriptAlgorithms'>Javascript 数据结构算法</a></li>   
+</ul>
 
