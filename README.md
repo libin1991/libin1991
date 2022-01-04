@@ -1,6 +1,6 @@
 ## About Me  
 
-// ### Hi there ，I'm libin ，I am a senior front-end development engineer 👋
+<!--   ### Hi there ，I'm libin ，I am a senior front-end development engineer 👋 -->
 
 ### WeChat (Come and make me a friend)
 
