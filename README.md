@@ -1,7 +1,7 @@
 ## About Me  
 
 <!--   ### Hi there ，I'm libin ，I am a senior front-end development engineer 👋 -->
-
+> 鸿蒙初辟原无姓，打破顽冥须悟空
 ### WeChat (Come and make me a friend)
 
 <img src="https://raw.githubusercontent.com/libin1991/libin1991/master/wx-0.jpg"  width="250" height="250" align="center" />
