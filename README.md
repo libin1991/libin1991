@@ -59,5 +59,7 @@ Here are some ideas to get you started:
    <li><a href='https://github.com/biaodigit/JavaScriptAlgorithms'>Javascript 数据结构算法</a></li>   
    <li><a href='https://github.com/mjyplusone/data-structure-js'>Javascript 数据结构算法</a></li>   
    <li><a href='https://github.com/biaodigit/JavaScriptAlgorithms'>Javascript 数据结构算法</a></li>   
+   <li><a href='https://www.cnblogs.com/anding/p/16987769.html'> Git入门图文教程</a></li>   
+
 </ul>
 
