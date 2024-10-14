@@ -9,7 +9,11 @@
 <!-- <img src="https://raw.githubusercontent.com/libin1991/libin1991/master/wx.png"  width="680" height="184" align="center" /> -->
 
 
-![]()
+<p>
+  <a href="https://github.com/libin1991">
+    <img style="width:100%" src="https://skillicons.dev/icons?i=js,html,css,svelte,tailwind,vue,react,rollupjs,vscode,git,md,github,vite,webpack,wordpress,ps,ai,figma,blender" alt="Skills">
+  </a>
+</p>
 
 <!--
 **libin1991/libin1991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
