@@ -37,6 +37,14 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
+
+<div align="center">
+  <a href="https://milind.bio.link/" >
+      <img height="137px" src="https://github-readme-stats.vercel.app/api?username=thatbeautifuldream&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+      <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thatbeautifuldream&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+    <img width="97%" src="https://activity-graph.herokuapp.com/graph?username=thatbeautifuldream&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+  </a>
+</div>
 <div align="center">
   <a href="https://milind.bio.link/" >
     <img src = "http://github-readme-streak-stats.herokuapp.com?user=thatbeautifuldream&theme=monokai&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=00000000&stroke=DE37C1">
