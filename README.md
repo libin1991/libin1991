@@ -11,7 +11,7 @@
 
 <p>
   <a href="https://github.com/libin1991">
-    <img style="width:100%" src="https://skillicons.dev/icons?i=js,html,css,svelte,tailwind,vue,react,rollupjs,vscode,git,md,github,vite,webpack,wordpress,ps,ai,figma,blender" alt="Skills">
+    <img style="width:100%" src="https://skillicons.dev/icons?i=js,html,css,svelte,vue,react,rollupjs,vscode,git,md,github,vite,webpack,ps,ai,figma" alt="Skills">
   </a>
 </p>
 
@@ -66,4 +66,11 @@ Here are some ideas to get you started:
    <li><a href='https://www.cnblogs.com/anding/p/16987769.html'> Git入门图文教程</a></li>   
 <li><a href='https://zlxiang.com/'>zlxiang.com</a></li>   
 </ul>
-
+<p>
+  <a href="https://github.com/libin1991">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/libin1991/libin1991/output/github-contribution-grid-snake-dark.svg">
+      <img width="100%" src="https://raw.githubusercontent.com/dufu1991/dufu1991/output/github-contribution-grid-snake.svg" alt="Records">
+    </picture>
+  </a>
+</p>
